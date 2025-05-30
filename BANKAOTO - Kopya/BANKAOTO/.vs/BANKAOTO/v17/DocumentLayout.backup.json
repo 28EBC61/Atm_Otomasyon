@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|c:\\users\\asus\\desktop\\bankaoto - kopya\\bankaoto\\bankaoto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|solutionrelative:bankaoto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\bankaoto\\parayatir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|solutionrelative:bankaoto\\parayatir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\bankaoto\\hareketkaydet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|solutionrelative:bankaoto\\hareketkaydet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\bankaoto\\parayatir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|solutionrelative:bankaoto\\parayatir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\bankaoto\\yetkiliislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|solutionrelative:bankaoto\\yetkiliislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\bankaoto\\hesaphareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|solutionrelative:bankaoto\\hesaphareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\bankaoto\\hesaphareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|solutionrelative:bankaoto\\hesaphareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\bankaoto\\musteriislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|solutionrelative:bankaoto\\musteriislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\bankaoto\\musteriislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|solutionrelative:bankaoto\\musteriislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\bankaoto\\yetkiliislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|solutionrelative:bankaoto\\yetkiliislem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\bankaoto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887CB7F3-F6A1-4810-BED0-8D63EF65103E}|BANKAOTO\\BANKAOTO.csproj|solutionrelative:bankaoto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParaYatir.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\ParaYatir.cs",
+              "RelativeDocumentMoniker": "BANKAOTO\\ParaYatir.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\ParaYatir.cs",
+              "RelativeToolTip": "BANKAOTO\\ParaYatir.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:43:15.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParaYatir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\ParaYatir.cs",
+              "RelativeDocumentMoniker": "BANKAOTO\\ParaYatir.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\ParaYatir.cs [Design]",
+              "RelativeToolTip": "BANKAOTO\\ParaYatir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:43:14.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HareketKaydet.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\HareketKaydet.cs",
+              "RelativeDocumentMoniker": "BANKAOTO\\HareketKaydet.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\HareketKaydet.cs",
+              "RelativeToolTip": "BANKAOTO\\HareketKaydet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:24:59.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HesapHareket.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\HesapHareket.cs",
+              "RelativeDocumentMoniker": "BANKAOTO\\HesapHareket.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\HesapHareket.cs",
+              "RelativeToolTip": "BANKAOTO\\HesapHareket.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:14:20.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HesapHareket.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\HesapHareket.cs",
+              "RelativeDocumentMoniker": "BANKAOTO\\HesapHareket.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\HesapHareket.cs [Design]",
+              "RelativeToolTip": "BANKAOTO\\HesapHareket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:11:01.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Musteriislem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\Musteriislem.cs",
+              "RelativeDocumentMoniker": "BANKAOTO\\Musteriislem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\Musteriislem.cs",
+              "RelativeToolTip": "BANKAOTO\\Musteriislem.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADgv0AAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T01:30:20.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Yetkiliislem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\Yetkiliislem.cs",
+              "RelativeDocumentMoniker": "BANKAOTO\\Yetkiliislem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\Yetkiliislem.cs",
+              "RelativeToolTip": "BANKAOTO\\Yetkiliislem.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T01:18:59.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Musteriislem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\Musteriislem.cs",
+              "RelativeDocumentMoniker": "BANKAOTO\\Musteriislem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\Musteriislem.cs [Design]",
+              "RelativeToolTip": "BANKAOTO\\Musteriislem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:58:02.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Yetkiliislem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\Yetkiliislem.cs",
+              "RelativeDocumentMoniker": "BANKAOTO\\Yetkiliislem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\Yetkiliislem.cs [Design]",
+              "RelativeToolTip": "BANKAOTO\\Yetkiliislem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:53:10.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\Form1.cs",
+              "RelativeDocumentMoniker": "BANKAOTO\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\Form1.cs",
+              "RelativeToolTip": "BANKAOTO\\Form1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:46:35.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\Form1.cs",
+              "RelativeDocumentMoniker": "BANKAOTO\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\BANKAOTO - Kopya\\BANKAOTO\\BANKAOTO\\Form1.cs [Design]",
+              "RelativeToolTip": "BANKAOTO\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:45:25.876Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
